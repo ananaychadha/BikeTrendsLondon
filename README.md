@@ -6,11 +6,9 @@ This project explores patterns in London’s bike ride data to uncover insights 
 ## Dataset
 The dataset, `london_merged.csv`, contains comprehensive records of bike rides in London. It includes various features such as temperature, humidity, wind speed, weather conditions, and timestamps, enabling an in-depth analysis of ride trends.
 
-```
-
 You can find the complete code and dataset in my GitHub repository.
 
-### Crafting Dynamic Visualizations with Tableau 📈
+### Crafting Dynamic Visualizations with Tableau 
 With the cleaned dataset, I created several insightful visualisations using Tableau:
 
 1. **Moving Average (Line)**: Showcases the timeline of bike rides.
